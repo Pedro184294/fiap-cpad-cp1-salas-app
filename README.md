@@ -53,15 +53,18 @@ Pressionar w para abrir no navegador
 
 Ou escanear o QR Code com o Expo Go
 
-📱 d) Demonstração
-🏠 Home
+## 📱 d) Demonstração
 
-🏫 Salas
+### 🏠 Home
+![Home](assets/images/home.png)
 
-👤 Perfil
+### 🏫 Salas
+![Salas](assets/images/salas.png)
 
-🎥 Vídeo do App
+### 👤 Perfil
+![Perfil](assets/images/perfil.png)
 
+### 🎥 Vídeo do App
 Em breve (adicione aqui o link do vídeo ou GIF demonstrando o funcionamento do app)
 
 ⚙️ e) Decisões Técnicas
