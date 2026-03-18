@@ -50,13 +50,13 @@ npx expo start
 ## 📱 Demonstração
 
 ### 🏠 Home
-![Home](assets/screenshots/home.png)
+![Home](assets/images/home.png)
 
 ### 🏫 Salas
-![Salas](assets/screenshots/salas.png)
+![Salas](assets/images/salas.png)
 
 ### 👤 Perfil
-![Perfil](assets/screenshots/perfil.png)
+![Perfil](assets/images/perfil.png)
 
 ### 🎥 Vídeo do App
 Em breve (adicione aqui o link do vídeo ou GIF demonstrando o funcionamento do app)
