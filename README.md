@@ -65,7 +65,9 @@ Ou escanear o QR Code com o Expo Go
 ![Perfil](assets/images/perfil.png)
 
 ### 🎥 Vídeo do App
-Em breve (adicione aqui o link do vídeo ou GIF demonstrando o funcionamento do app)
+Demonstração do fluxo principal do aplicativo:
+
+O usuário acessa a tela inicial (Home), navega até a aba de Salas para visualizar a disponibilidade e pode acessar o Perfil para visualizar seus dados.
 
 ⚙️ e) Decisões Técnicas
 🏗️ Estrutura do Projeto
