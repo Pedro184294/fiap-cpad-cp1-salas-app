@@ -1,25 +1,17 @@
 # 📱 FIAP Salas App
 
-Aplicativo desenvolvido com React Native utilizando Expo para gerenciamento de salas da FIAP.
-
----
-
 ## 📌 a) Sobre o Projeto
 
-### 🎯 Operação escolhida
-A operação escolhida foi o **gerenciamento de salas da FIAP**, com o objetivo de facilitar a visualização de salas disponíveis e ocupadas.
+Este projeto foi desenvolvido com o objetivo de simular um sistema de visualização de salas disponíveis dentro da FIAP.
 
-Essa escolha foi feita por ser um cenário comum no ambiente acadêmico, onde alunos e professores precisam identificar rapidamente salas disponíveis.
+A aplicação permite que o usuário visualize quais salas estão livres ou ocupadas, facilitando a organização e utilização dos espaços da instituição.
 
----
+### 🚀 Funcionalidades
 
-### ⚙️ Funcionalidades implementadas
-
-- Tela inicial (Home)
-- Listagem de salas com status (Livre / Ocupada)
-- Alteração dinâmica do status das salas
-- Cadastro de usuário (nome e curso)
-- Validação de formulário no perfil
+- Visualização de salas disponíveis
+- Identificação de salas ocupadas/livres
+- Navegação entre telas (Home, Salas e Perfil)
+- Interface simples e intuitiva
 
 ---
 
@@ -31,21 +23,22 @@ Essa escolha foi feita por ser um cenário comum no ambiente acadêmico, onde al
 
 ## ▶️ c) Como Rodar o Projeto
 
-### 📦 Pré-requisitos
+### 🔧 Pré-requisitos
 
 - Node.js instalado
+- npm instalado
 - Expo CLI
-- Aplicativo Expo Go (celular) ou navegador
+- Navegador web ou app Expo Go
 
 ---
 
-### 🚀 Passo a passo
+### 💻 Passo a passo
 
 ```bash
 # Clonar o repositório
 git clone https://github.com/Pedro184294/fiap-cpad-cp1-salas-app.git
 
-# Entrar na pasta
+# Entrar na pasta do projeto
 cd fiap-cpad-cp1-salas-app
 
 # Instalar dependências
@@ -53,3 +46,17 @@ npm install
 
 # Rodar o projeto
 npx expo start
+
+## 📱 Demonstração
+
+### 🏠 Home
+![Home](assets/screenshots/home.png)
+
+### 🏫 Salas
+![Salas](assets/screenshots/salas.png)
+
+### 👤 Perfil
+![Perfil](assets/screenshots/perfil.png)
+
+### 🎥 Vídeo do App
+Em breve (adicione aqui o link do vídeo ou GIF demonstrando o funcionamento do app)
