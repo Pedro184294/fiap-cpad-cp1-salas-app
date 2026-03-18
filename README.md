@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# 📱 FIAP Salas App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo desenvolvido com React Native utilizando Expo para gerenciamento de salas da FIAP.
 
-## Get started
+---
 
-1. Install dependencies
+## 📌 a) Sobre o Projeto
 
-   ```bash
-   npm install
-   ```
+### 🎯 Operação escolhida
+A operação escolhida foi o **gerenciamento de salas da FIAP**, com o objetivo de facilitar a visualização de salas disponíveis e ocupadas.
 
-2. Start the app
+Essa escolha foi feita por ser um cenário comum no ambiente acadêmico, onde alunos e professores precisam identificar rapidamente salas disponíveis.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+### ⚙️ Funcionalidades implementadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Tela inicial (Home)
+- Listagem de salas com status (Livre / Ocupada)
+- Alteração dinâmica do status das salas
+- Cadastro de usuário (nome e curso)
+- Validação de formulário no perfil
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 👥 b) Integrantes do Grupo
 
-When you're ready, run:
+- Pedro Tofoli
+
+---
+
+## ▶️ c) Como Rodar o Projeto
+
+### 📦 Pré-requisitos
+
+- Node.js instalado
+- Expo CLI
+- Aplicativo Expo Go (celular) ou navegador
+
+---
+
+### 🚀 Passo a passo
 
 ```bash
-npm run reset-project
-```
+# Clonar o repositório
+git clone https://github.com/Pedro184294/fiap-cpad-cp1-salas-app.git
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+# Entrar na pasta
+cd fiap-cpad-cp1-salas-app
 
-## Learn more
+# Instalar dependências
+npm install
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Rodar o projeto
+npx expo start
