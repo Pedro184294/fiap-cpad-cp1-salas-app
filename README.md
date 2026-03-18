@@ -56,7 +56,7 @@ Ou escanear o QR Code com o Expo Go
 ## 📱 d) Demonstração
 
 ### 🏠 Home
-![Home](assets/images/home.png)
+![Home](https://github.com/Pedro184294/fiap-cpad-cp1-salas-app/blob/main/assets/images/home.png?raw=true)
 
 ### 🏫 Salas
 ![Salas](assets/images/salas.png)
