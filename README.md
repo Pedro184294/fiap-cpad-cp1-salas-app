@@ -47,16 +47,66 @@ npm install
 # Rodar o projeto
 npx expo start
 
-## 📱 Demonstração
+Depois disso, você pode:
 
-### 🏠 Home
-![Home](assets/images/home.png)
+Pressionar w para abrir no navegador
 
-### 🏫 Salas
-![Salas](assets/images/salas.png)
+Ou escanear o QR Code com o Expo Go
 
-### 👤 Perfil
-![Perfil](assets/images/perfil.png)
+📱 d) Demonstração
+🏠 Home
 
-### 🎥 Vídeo do App
+🏫 Salas
+
+👤 Perfil
+
+🎥 Vídeo do App
+
 Em breve (adicione aqui o link do vídeo ou GIF demonstrando o funcionamento do app)
+
+⚙️ e) Decisões Técnicas
+🏗️ Estrutura do Projeto
+
+O projeto foi desenvolvido utilizando React Native com Expo, seguindo a estrutura padrão do Expo Router.
+
+As telas foram organizadas dentro da pasta:
+
+app/(tabs)
+
+Telas criadas:
+
+Home (index.tsx)
+
+Salas (salas.tsx)
+
+Perfil (perfil.tsx)
+
+⚛️ Hooks Utilizados
+
+useState: utilizado para controlar estados simples, como a lista de salas e informações exibidas nas telas.
+
+useEffect: preparado para uso em futuras melhorias, como carregamento de dados externos.
+
+🧭 Navegação
+
+A navegação foi implementada utilizando o Expo Router com sistema de abas (tabs).
+
+Abas disponíveis:
+
+Home
+
+Explore
+
+Salas
+
+Perfil
+
+📱 Tecnologias Utilizadas
+
+React Native
+
+Expo
+
+TypeScript
+
+Expo Router
