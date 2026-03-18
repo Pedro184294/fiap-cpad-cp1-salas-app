@@ -60,6 +60,7 @@ Ou escanear o QR Code com o Expo Go
 
 ### 🏫 Salas
 ![Salas](assets/images/salas.png)
+<img width="1913" height="877" alt="image" src="https://github.com/user-attachments/assets/9bbb0758-bacd-44ec-b2ab-dab70c83a819" />
 
 ### 👤 Perfil
 ![Perfil](assets/images/perfil.png)
