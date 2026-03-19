@@ -56,13 +56,13 @@ Ou escanear o QR Code com o Expo Go
 ## 📱 d) Demonstração
 
 ### 🏠 Home
-![Home](https://github.com/Pedro184294/fiap-cpad-cp1-salas-app/blob/main/assets/images/home.png?raw=true)
+[![Home](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/home.png)](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/home.png)
 
 ### 🏫 Salas
-![Salas]
+[![Salas](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/salas.png)](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/salas.png)
 
 ### 👤 Perfil
-![Perfil](assets/images/perfil.png)
+[![Perfil](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/perfil.png)](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/perfil.png)
 
 ### 🎥 Vídeo do App
 Demonstração do fluxo principal do aplicativo:
