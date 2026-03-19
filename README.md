@@ -34,7 +34,6 @@ A aplicação permite que o usuário visualize quais salas estão livres ou ocup
 
 ### 💻 Passo a passo
 
-```bash
 # Clonar o repositório
 git clone https://github.com/Pedro184294/fiap-cpad-cp1-salas-app.git
 
