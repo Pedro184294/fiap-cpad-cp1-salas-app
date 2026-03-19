@@ -64,9 +64,8 @@ Ou escanear o QR Code com o Expo Go
 [![Perfil](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/perfil.png)](https://raw.githubusercontent.com/Pedro184294/fiap-cpad-cp1-salas-app/main/assets/images/perfil.png)
 
 ### 🎥 Vídeo do App
-Demonstração do fluxo principal do aplicativo:
 
-O usuário acessa a tela inicial (Home), navega até a aba de Salas para visualizar a disponibilidade e pode acessar o Perfil para visualizar seus dados.
+[▶️ Assistir no YouTube](https://youtu.be/_0x6i3dRXGg)
 
 ⚙️ e) Decisões Técnicas
 🏗️ Estrutura do Projeto
